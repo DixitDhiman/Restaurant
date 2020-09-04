@@ -1,0 +1,22 @@
+{
+  "name": "shoppingassignment",
+  "version": "1.0.0",
+  "description": "Create 2 api's, One is to get categories and it's product and Second is to fetch the nearest drivers",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "keywords": [
+    "shopping",
+    "assignment",
+    "node"
+  ],
+  "author": "Dixit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.3",
+    "nodemon": "^2.0.4",
+    "path": "^0.12.7"
+  }
+}
